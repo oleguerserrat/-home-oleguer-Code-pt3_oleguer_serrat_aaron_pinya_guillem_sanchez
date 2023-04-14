@@ -25,7 +25,7 @@
                                 <a href="../sobremi/sobremi.html">SOBRE MI</a>
                             </li>
                             <li class="menuitem">
-                                <a href="../recetas/recetas.html">RECETAS</a>
+                                <a href="../recetas/recetas.xml">RECETAS</a>
                             </li>
                             <li class="menuitem">
                                 <a href="../formulario/formulario.html">CONTACTO</a>
