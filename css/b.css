@@ -1,0 +1,12 @@
+h3{color: red;
+	font-size: 12pt;
+	font-family: Helvetica,Arial,sans-serif;
+	background-color: rgb(255,255,255);
+}
+
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}

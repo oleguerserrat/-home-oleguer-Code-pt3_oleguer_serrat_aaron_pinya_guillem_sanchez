@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/recetas.xsl" ?>
+<recetas>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Macarrones a la carbonara</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de pasta</ingrediente>
+            <ingrediente>1 cucharada aceite</ingrediente>
+            <ingrediente>2 tomates</ingrediente>
+            <ingrediente>Carne picada</ingrediente>
+            <ingrediente>1 Cebolla</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/macarronescarbonara.jpg</imagen>
+        <url>./MacaronesCarbonara.html</url>
+    </receta>
+    <receta>
+        <nombre>Macarrones con queso</nombre>
+        <ingredientes>
+            <ingrediente>Queso</ingrediente>
+            <ingrediente>Macarrones</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/MacarronesQueso.jpg</imagen>
+        <url>./MacarronesQueso.html</url>
+    </receta>
+<receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    <receta>
+        <nombre>Pastel</nombre>
+        <ingredientes>
+            <ingrediente>200 gramos de chocolate negro</ingrediente>
+            <ingrediente>200 gramos de mantequilla</ingrediente>
+            <ingrediente>200 gramos de azúcar</ingrediente>
+            <ingrediente>5 huevos</ingrediente>
+            <ingrediente>100 gramos de harina</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+        </ingredientes>
+        <imagen>../imagenes/pastel.jpg</imagen>
+        <url>./pastel.html</url>
+    </receta>
+    
+</recetas>

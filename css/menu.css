@@ -17,13 +17,10 @@ html{
 }
 
 .header{
-    /* esto se mira y no se toca :3 */
     top: 0;
     width: 100%;
     background-color: white;
     grid-area:header;
-    /* position: fixed; */
-    /* padding: 10px; */
     text-align: center;
 }
 nav{
@@ -31,7 +28,7 @@ nav{
     flex-direction: row;
     display: flex;
     align-items: center;
-    height: 80%;
+    /* height: 80%; */
     text-align: center;
 }
 
@@ -82,19 +79,14 @@ a{
 
 
 footer{
-    /* esto no se TOCA PORFAVOR T_T */
-    position: absolute;
     width: 100%;
     background-color: rgb(34,34,34);
-    bottom: -100;
     flex-direction: row;
     display: flex;
     align-items: center;
     justify-content: center;
-    /*position: absolute; */
     font-size: 70%;
     clear: both;
-    position: absolute;
 }
 
 

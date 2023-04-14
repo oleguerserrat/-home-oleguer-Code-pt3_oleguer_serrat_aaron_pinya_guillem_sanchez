@@ -10,6 +10,19 @@
     <link rel=StyleSheet href="../css/recetas.css" TYPE="text/css">
 </head>
 
+<!-- antes teniamos esta mierda
+  con estas mierdas
+ mira paso de explicarlo q palo
+ tenemos q hacer esto
+ igualisimo pero en el xsl
+ asi podemos usar el mismo css -> ../css/recetas.css
+ lo montamos igual
+
+ div con class
+ 
+
+-->
+
 <body>
     <header class="header">
         <img class="imagen-header" src="../imagenes/Logo-Delicias.png">
@@ -26,9 +39,9 @@
 
 
     <div class="grid-container">
-        <div class="grid-item item1">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/MacarronesBoloñesa.html">
+            <a href="../recetas/MacarronesBoloñesa.html">
               <div class="image macarones-con-tomate"></div>
               <div class="description">
                 <h3>Macarones con Tomate</h3>
@@ -37,9 +50,9 @@
             </a>
           </div>
         </div>
-        <div class="grid-item item2">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/MacaronesCarbonara.html">
+            <a href="../recetas/MacaronesCarbonara.html">
               <div class="image macarrones-carbonara"></div>
               <div class="description">
                 <h3>Macarrones Carbonara</h3>
@@ -48,9 +61,9 @@
             </a>
           </div>
         </div>
-        <div class="grid-item item3">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/Macarronesgorgonzolaynueces.html">
+            <a href="../recetas/Macarronesgorgonzolaynueces.html">
               <div class="image macarrones-gorgonzola"></div>
               <div class="description">
                 <h3>Macarrones Gorgonzola</h3>
@@ -59,9 +72,9 @@
             </a>
           </div>
         </div>
-        <div class="grid-item item4">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/MacarronesPesto.html">
+            <a href="../recetas/MacarronesPesto.html">
               <div class="image macarrones-pesto"></div>
               <div class="description">
                 <h3>Macarrones Pesto</h3>
@@ -70,9 +83,9 @@
             </a>
           </div>
         </div>
-        <div class="grid-item item5">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/MacarronesQueso.html">
+            <a href="../recetas/MacarronesQueso.html">
               <div class="image macarrones-queso"></div>
               <div class="description">
                 <h3>Macarrones con Queso</h3>
@@ -81,9 +94,9 @@
             </a>
           </div>
         </div>
-        <div class="grid-item item6">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/MacarronesBoloñesa.html">
+            <a href="../recetas/MacarronesBoloñesa.html">
               <div class="image macarrones-bolonesa"></div>
               <div class="description">
                 <h3>Macarrones Boloñesa</h3>
@@ -92,9 +105,9 @@
             </a>
           </div>
         </div>
-        <div class="grid-item item7">
+        <div class="grid-item item">
           <div class="item-content">
-            <a href="/recetas/MacarronesChorrizo.html">
+            <a href="../recetas/MacarronesChorrizo.html">
               <div class="image macarrones-chorizo"></div>
               <div class="description">
                 <h3>Macarrones con Chorizo</h3>
@@ -103,9 +116,9 @@
             </a>
             </div>
               </div>
-              <div class="grid-item item8">
+              <div class="grid-item item">
                 <div class="item-content">
-                  <a href="/recetas/MacarronesMayonesa.html">
+                  <a href="../recetas/MacarronesMayonesa.html">
                     <div class="image macarrones-mayonesa"></div>
                     <div class="description">
                       <h3>Macarrones con Mayonesa</h3>
@@ -114,9 +127,9 @@
                   </a>
                 </div>
               </div>
-              <div class="grid-item item9">
+              <div class="grid-item item">
                 <div class="item-content">
-                  <a href="/recetas/MacarronesPicantes.html">
+                  <a href="../recetas/MacarronesPicantes.html">
                     <div class="image macarrones-picantes"></div>
                     <div class="description">
                       <h3>Macarrones Picantes</h3>
@@ -125,9 +138,9 @@
                   </a>
                 </div>
               </div>
-              <div class="grid-item item10">
+              <div class="grid-item item">
                 <div class="item-content">
-                  <a href="/recetas/MacaronesCarbonara.html">
+                  <a href="../recetas/MacaronesCarbonara.html">
                     <div class="image mijo"></div>
                     <div class="description">
                       <h3>Mijo</h3>
